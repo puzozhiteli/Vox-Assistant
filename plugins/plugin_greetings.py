@@ -1,5 +1,5 @@
 # Приветствие (и демо-плагин)
-# author: Maxims Nechev
+# author: Vladislav Janvarev (inspired by EnjiRouz)
 
 import random
 from vacore import VACore

@@ -21,7 +21,6 @@ index_url = os.environ.get('INDEX_URL', "")
 stored_commit_hash = None
 
 
-
 def commit_hash():
     global stored_commit_hash
 

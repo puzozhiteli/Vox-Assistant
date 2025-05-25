@@ -25,7 +25,6 @@ if __name__ == "__main__":
         logger.exception(e)
 
 
-
     exit(0) # если нужно - закомментируйте и можно будет работать с командной строкой
 
     print("Enter command (user text like 'привет') or 'exit'")

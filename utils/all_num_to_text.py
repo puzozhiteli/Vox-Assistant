@@ -1,5 +1,5 @@
 # MIT License
-# Maxim Nechev
+# Janvarev Vladislav
 #
 # library for translate all digits in text to pronounce
 

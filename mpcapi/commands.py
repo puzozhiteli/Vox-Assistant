@@ -1,5 +1,5 @@
 
-# Methods  that will sent to /command.html endpoint
+# Methods that will sent to /command.html endpoint
 command_mapping = {
    "969":{  
       "descr":"Quick Open File",

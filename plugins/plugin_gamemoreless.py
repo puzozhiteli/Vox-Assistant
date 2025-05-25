@@ -1,5 +1,5 @@
 # Игра больше меньше
-# author: Maxim Nechev
+# author: Vladislav Janvarev
 
 from datetime import datetime
 

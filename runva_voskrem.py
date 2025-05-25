@@ -10,7 +10,6 @@ import logging
 import sounddevice as sd
 import argparse
 
-
 from vacore import VACore
 
 mic_blocked = False
