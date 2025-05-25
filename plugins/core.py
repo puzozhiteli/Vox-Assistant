@@ -1,5 +1,5 @@
 # Core plugin
-# author: Vladislav Janvarev
+# author: Maxim Nechev
 
 from vacore import VACore
 

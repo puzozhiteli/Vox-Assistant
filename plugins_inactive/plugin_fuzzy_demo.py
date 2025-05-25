@@ -1,5 +1,5 @@
 # Demo plugin for fuzzy input processing
-# author: Vladislav Janvarev
+# author: Maxim Nechev
 
 import os
 

@@ -7,6 +7,7 @@ import sys
 import logging
 import json
 
+
 from vacore import VACore
 
 mic_blocked = False

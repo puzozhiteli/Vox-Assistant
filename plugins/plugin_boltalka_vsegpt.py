@@ -1,6 +1,6 @@
 # Болталка с vsegpt.
 # Ключ можно получить на https://vsegpt.ru
-# author: Vladislav Janvarev
+# author: Maxim Nechaev
 
 from vacore import VACore
 

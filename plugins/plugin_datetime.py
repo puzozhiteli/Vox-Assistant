@@ -1,5 +1,5 @@
 # Дата и время
-# author: Vladislav Janvarev
+# author: Maxim Nechaev
 
 from datetime import datetime
 from utils.num_to_text_ru import num2text

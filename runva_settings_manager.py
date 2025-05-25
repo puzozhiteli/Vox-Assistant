@@ -21,3 +21,4 @@ if __name__ == "__main__":
         required_fields_to_show_plugin=["options","description"]
     )
     gr_int.launch(inbrowser=True)
+

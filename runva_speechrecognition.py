@@ -2,6 +2,7 @@
 # pip install PyAudio
 # pip install SpeechRecognition
 
+
 # if you have problems with PyAudio install, check this:
 # https://github.com/EnjiRouz/Voice-Assistant-App/blob/master/README.md
 

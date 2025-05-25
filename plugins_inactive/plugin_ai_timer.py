@@ -1,6 +1,5 @@
 # Ai Timer
-# author: Vladislav Janvarev
-
+# author: Maxim Nechev
 import time
 import os
 

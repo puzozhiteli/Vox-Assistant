@@ -16,6 +16,7 @@ can contain "default_options"
 - if contain - "start_with_options(core,manifest)" function will run with manifest with "options" key
 manifest will be processed in "process_plugin_manifest" function if you override it
 
+
 - Options (for plugins)
 are saved under "options" folder in JSON format
 created at first run plugin with "default_options"
